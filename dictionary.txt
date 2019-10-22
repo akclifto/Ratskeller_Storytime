@@ -1,7 +1,7 @@
 Words and translations:
 
-Ratskeller  =       a bar or restaurant located in the basement of a city hall (Rathaus) or nearby. Many taverns, nightclubs, bars, and                       similar establishments throughout the world use the term.
-Gauss =             unit of measurement of magnetic flux density (or "magnetic induction") named after German mathematician  Johann Carl                       Friedrich Gauss. 
+Ratskeller  =       a bar or restaurant located in the basement of a city hall (Rathaus) or nearby. Many taverns, nightclubs, bars, and similar establishments throughout the world use the term.
+Gauss =             unit of measurement of magnetic flux density (or "magnetic induction") named after German mathematician  Johann Carl Friedrich Gauss. 
 Raesfeld =          City in west Germany near Dutch border.
 Berlin =            Capital of Germany in eastern part of country near Poland.
 Munich =            Capital of Bavaria in southern Germany near Austria.
